@@ -1,0 +1,19 @@
+.inputFormat {
+    display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputText {
+    width: 60%;
+    height:50px;
+    margin-right: 20px;
+    font-size: x-large;
+}
+
+.inputBtn {
+    height: 50px;
+    margin-left: 20px;
+    font-size: medium;
+}

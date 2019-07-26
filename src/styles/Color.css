@@ -1,0 +1,22 @@
+.color {
+    width: 30vw;
+    border-style: outset;
+    border-width:5px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.colorDisplay {
+    height: 20vh;
+}
+
+.floatRight {
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+}
